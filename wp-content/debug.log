@@ -39,3 +39,9 @@
 [24-Jul-2024 10:35:58 UTC] PHP Deprecated:  strip_tags(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\custom_acf\wp-admin\admin-header.php on line 36
 [24-Jul-2024 10:35:58 UTC] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\xampp\htdocs\custom_acf\wp-includes\functions.php on line 7300
 [24-Jul-2024 10:35:58 UTC] PHP Deprecated:  str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in C:\xampp\htdocs\custom_acf\wp-includes\functions.php on line 2189
+[24-Jul-2024 10:44:17 UTC] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\xampp\htdocs\custom_acf\wp-includes\functions.php on line 7300
+[24-Jul-2024 10:44:17 UTC] PHP Deprecated:  str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in C:\xampp\htdocs\custom_acf\wp-includes\functions.php on line 2189
+[24-Jul-2024 10:44:29 UTC] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\xampp\htdocs\custom_acf\wp-includes\functions.php on line 7300
+[24-Jul-2024 10:44:29 UTC] PHP Deprecated:  str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in C:\xampp\htdocs\custom_acf\wp-includes\functions.php on line 2189
+[24-Jul-2024 10:44:32 UTC] PHP Deprecated:  strpos(): Passing null to parameter #1 ($haystack) of type string is deprecated in C:\xampp\htdocs\custom_acf\wp-includes\functions.php on line 7300
+[24-Jul-2024 10:44:32 UTC] PHP Deprecated:  str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in C:\xampp\htdocs\custom_acf\wp-includes\functions.php on line 2189
